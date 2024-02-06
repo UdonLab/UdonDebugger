@@ -1,4 +1,5 @@
 # UdonDebugger
+![Snipaste_2024-02-06_22-50-00](https://github.com/UdonLab/UdonDebugger/assets/8389962/e05990b1-94ca-4138-82ab-aa3a4d3a2d1c)
 
 # Installation method (VCC):
 Click the "Add Repository" button under Settings → Packages and enter the following URL:
