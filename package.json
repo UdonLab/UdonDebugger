@@ -1,0 +1,14 @@
+{
+	"name" : "com.sonic853.udonlab.debugger",
+	"displayName" : "Udon Lab - Udon Debugger",
+	"version" : "1.0.0",
+	"unity" : "2022.3",
+	"description" : "The Udon Lab",
+	"author" : {
+		"name" : "Sonic853",
+		"email" : "sonic853@qq.com",
+		"url" : "https://853lab.booth.pm/"
+	},
+	"dependencies" : {
+	}
+}
