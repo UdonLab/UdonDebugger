@@ -1,14 +1,17 @@
 {
-	"name" : "com.sonic853.udonlab.debugger",
-	"displayName" : "Udon Lab - Udon Debugger",
-	"version" : "1.0.0",
-	"unity" : "2022.3",
-	"description" : "The Udon Lab",
-	"author" : {
-		"name" : "Sonic853",
-		"email" : "sonic853@qq.com",
-		"url" : "https://853lab.booth.pm/"
-	},
-	"dependencies" : {
-	}
+  "name": "com.sonic853.udonlab.debugger",
+  "version": "1.0.0",
+  "displayName": "Udon Lab - Udon Debugger",
+  "description": "The Udon Lab",
+  "unity": "2022.3",
+  "documentationUrl": "https://github.com/UdonLab/UdonDebugger",
+  "changelogUrl": "https://github.com/UdonLab/UdonDebugger/releases",
+  "licensesUrl": "https://github.com/UdonLab/UdonDebugger/blob/master/LICENSE",
+  "license": "LGPL-3.0-or-later",
+  "keywords": [],
+  "author": {
+    "name": "Sonic853",
+    "email": "sonic853@qq.com",
+    "url": "https://853lab.booth.pm/"
+  }
 }
