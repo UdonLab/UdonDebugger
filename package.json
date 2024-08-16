@@ -4,6 +4,7 @@
   "displayName": "Udon Lab - Udon Debugger",
   "description": "The Udon Lab",
   "unity": "2022.3",
+  "homepage": "https://github.com/UdonLab/UdonDebugger",
   "documentationUrl": "https://github.com/UdonLab/UdonDebugger",
   "changelogUrl": "https://github.com/UdonLab/UdonDebugger/releases",
   "licensesUrl": "https://github.com/UdonLab/UdonDebugger/blob/master/LICENSE",
