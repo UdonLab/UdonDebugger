@@ -27,7 +27,7 @@ namespace UdonLab
             }
             return (UdonDebuger)obj.GetComponent(typeof(UdonBehaviour));
         }
-        Text Logobj(string text)
+        protected virtual GameObject Logobj(string text)
         {
             logs = UdonArrayPlus.Add(logs, text);
             var obj = Instantiate(logText, Content.transform);
@@ -36,9 +36,9 @@ namespace UdonLab
             var textobj = obj.GetComponent<Text>();
             textobj.text = text;
             CheckText(textobj);
-            return textobj;
+            return obj;
         }
-        void CheckText(Text textobj)
+        protected void CheckText(Text textobj)
         {
             if (!infoToggle.isOn && textobj.text.Contains("][<color=white>Info</color>]\n<color=white>"))
             {

@@ -1,5 +1,5 @@
 {
-    "name": "UdonLab.Debugger",
+    "name": "Sonic853.UdonLab.Debugger",
     "rootNamespace": "",
     "references": [
         "VRC.Udon",
