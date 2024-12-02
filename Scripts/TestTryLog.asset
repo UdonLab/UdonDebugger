@@ -20,7 +20,7 @@ MonoBehaviour:
   compiledVersion: 2
   behaviourSyncMode: 0
   hasInteractEvent: 0
-  scriptID: -2537587764928493570
+  scriptID: -3667154795282639400
   serializationData:
     SerializedFormat: 2
     SerializedBytes: 
@@ -61,7 +61,7 @@ MonoBehaviour:
       Data: 3|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: UdonLab.UdonDebuger, Sonic853.UdonLab.Debugger
+      Data: Sonic853.Udon.Debuger.UdonDebuger, Sonic853.UdonLab.Debugger
     - Name: 
       Entry: 8
       Data: 

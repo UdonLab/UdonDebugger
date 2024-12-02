@@ -2,7 +2,7 @@
 using UdonSharp;
 using UnityEngine;
 
-namespace UdonLab
+namespace Sonic853.Udon.Debuger
 {
     public class TestTryLog : UdonSharpBehaviour
     {

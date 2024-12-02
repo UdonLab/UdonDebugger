@@ -1,11 +1,12 @@
 ﻿
 using System;
+using Sonic853.Udon.ArrayPlus;
 using UdonSharp;
 using UnityEngine;
 using UnityEngine.UI;
 using VRC.Udon;
 
-namespace UdonLab
+namespace Sonic853.Udon.Debuger
 {
     public class UdonDebuger : UdonSharpBehaviour
     {

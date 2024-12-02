@@ -1,11 +1,12 @@
 ﻿
+using Sonic853.Udon.ArrayPlus;
 using TMPro;
 using UdonSharp;
 using UnityEngine;
 using VRC.SDKBase;
 using VRC.Udon;
 
-namespace UdonLab
+namespace Sonic853.Udon.Debuger
 {
     public class UdonDebugerTMP : UdonDebuger
     {
