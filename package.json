@@ -14,5 +14,8 @@
     "name": "Sonic853",
     "email": "sonic853@qq.com",
     "url": "https://853lab.booth.pm/"
+  },
+  "vpmDependencies": {
+    "com.sonic853.udonlab.arrayplus": "2.x.x"
   }
 }
