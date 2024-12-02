@@ -1,6 +1,6 @@
 {
   "name": "com.sonic853.udonlab.debugger",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "displayName": "Udon Lab - Udon Debugger",
   "description": "The Udon Lab",
   "unity": "2022.3",
